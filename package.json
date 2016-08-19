@@ -1,12 +1,12 @@
 {
-  "author": "John Barry",
-  "name": "loopback-connector-sendgrid",
+  "author": "Andres Cidel",
+  "name": "loopback-connector-sendgrid-musghost",
   "description": "Loopback connector module which allow to send emails via SendGrid",
   "version": "2.0.3",
   "license": "MIT License (MIT)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Cellarise/loopback-connector-sendgrid.git"
+    "url": "https://github.com/musghost/loopback-connector-sendgrid.git"
   },
   "config": {
     "projectCode": "MDLPCNSG",
