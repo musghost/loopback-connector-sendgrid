@@ -2,7 +2,7 @@
   "author": "Andres Cidel",
   "name": "loopback-connector-sendgrid-musghost",
   "description": "Loopback connector module which allow to send emails via SendGrid",
-  "version": "2.0.3",
+  "version": "2.0.6",
   "license": "MIT License (MIT)",
   "repository": {
     "type": "git",
